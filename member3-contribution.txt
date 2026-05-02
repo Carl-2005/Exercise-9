@@ -1,0 +1,11 @@
+# Member 3 Contribution
+
+This is Member 3's contribution to the project.
+
+## Changes Made
+- Added this file as Member 3
+- Working on separate branch
+
+## Branch: member3
+- Created from: main
+- Purpose: Member 3's work
