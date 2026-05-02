@@ -3,7 +3,7 @@
 This repository demonstrates how to merge commits from different branches into the main branch.
 
 ## Group Members
-- Member 1: [Name]
+- Member 1: Carl Laguit (GitHub: Carl-2005)
 - Member 2: [Name]  
 - Member 3: [Name]
 

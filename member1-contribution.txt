@@ -1,5 +1,7 @@
 # Member 1 Contribution
 
+Member: Carl Laguit (GitHub: Carl-2005)
+
 This is Member 1's contribution to the project.
 
 ## Changes Made
