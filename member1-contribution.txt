@@ -1,0 +1,11 @@
+# Member 1 Contribution
+
+This is Member 1's contribution to the project.
+
+## Changes Made
+- Added this file as Member 1
+- Created README.md (initial setup)
+
+## Branch: member1
+- Created from: main
+- Purpose: Member 1's work
